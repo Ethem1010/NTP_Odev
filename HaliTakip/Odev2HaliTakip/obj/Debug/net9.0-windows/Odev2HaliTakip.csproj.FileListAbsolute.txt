@@ -1,0 +1,14 @@
+C:\Users\w11\OneDrive\Masaüstü\HaliTakip\Odev2HaliTakip\obj\Debug\net9.0-windows\Odev2HaliTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w11\OneDrive\Masaüstü\HaliTakip\Odev2HaliTakip\obj\Debug\net9.0-windows\Odev2HaliTakip.AssemblyInfoInputs.cache
+C:\Users\w11\OneDrive\Masaüstü\HaliTakip\Odev2HaliTakip\obj\Debug\net9.0-windows\Odev2HaliTakip.AssemblyInfo.cs
+C:\Users\w11\OneDrive\Masaüstü\HaliTakip\Odev2HaliTakip\obj\Debug\net9.0-windows\Odev2HaliTakip.csproj.CoreCompileInputs.cache
+C:\Users\w11\OneDrive\Masaüstü\HaliTakip\Odev2HaliTakip\bin\Debug\net9.0-windows\Odev2HaliTakip.exe
+C:\Users\w11\OneDrive\Masaüstü\HaliTakip\Odev2HaliTakip\bin\Debug\net9.0-windows\Odev2HaliTakip.deps.json
+C:\Users\w11\OneDrive\Masaüstü\HaliTakip\Odev2HaliTakip\bin\Debug\net9.0-windows\Odev2HaliTakip.runtimeconfig.json
+C:\Users\w11\OneDrive\Masaüstü\HaliTakip\Odev2HaliTakip\bin\Debug\net9.0-windows\Odev2HaliTakip.dll
+C:\Users\w11\OneDrive\Masaüstü\HaliTakip\Odev2HaliTakip\bin\Debug\net9.0-windows\Odev2HaliTakip.pdb
+C:\Users\w11\OneDrive\Masaüstü\HaliTakip\Odev2HaliTakip\obj\Debug\net9.0-windows\Odev2HaliTakip.dll
+C:\Users\w11\OneDrive\Masaüstü\HaliTakip\Odev2HaliTakip\obj\Debug\net9.0-windows\refint\Odev2HaliTakip.dll
+C:\Users\w11\OneDrive\Masaüstü\HaliTakip\Odev2HaliTakip\obj\Debug\net9.0-windows\Odev2HaliTakip.pdb
+C:\Users\w11\OneDrive\Masaüstü\HaliTakip\Odev2HaliTakip\obj\Debug\net9.0-windows\Odev2HaliTakip.genruntimeconfig.cache
+C:\Users\w11\OneDrive\Masaüstü\HaliTakip\Odev2HaliTakip\obj\Debug\net9.0-windows\ref\Odev2HaliTakip.dll
