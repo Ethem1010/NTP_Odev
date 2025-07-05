@@ -1,0 +1,14 @@
+C:\Users\w11\source\repos\RestoranSistemi\bin\Debug\net6.0-windows\RestoranSistemi.exe
+C:\Users\w11\source\repos\RestoranSistemi\bin\Debug\net6.0-windows\RestoranSistemi.deps.json
+C:\Users\w11\source\repos\RestoranSistemi\bin\Debug\net6.0-windows\RestoranSistemi.runtimeconfig.json
+C:\Users\w11\source\repos\RestoranSistemi\bin\Debug\net6.0-windows\RestoranSistemi.dll
+C:\Users\w11\source\repos\RestoranSistemi\bin\Debug\net6.0-windows\RestoranSistemi.pdb
+C:\Users\w11\source\repos\RestoranSistemi\obj\Debug\net6.0-windows\RestoranSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w11\source\repos\RestoranSistemi\obj\Debug\net6.0-windows\RestoranSistemi.AssemblyInfoInputs.cache
+C:\Users\w11\source\repos\RestoranSistemi\obj\Debug\net6.0-windows\RestoranSistemi.AssemblyInfo.cs
+C:\Users\w11\source\repos\RestoranSistemi\obj\Debug\net6.0-windows\RestoranSistemi.csproj.CoreCompileInputs.cache
+C:\Users\w11\source\repos\RestoranSistemi\obj\Debug\net6.0-windows\RestoranSistemi.dll
+C:\Users\w11\source\repos\RestoranSistemi\obj\Debug\net6.0-windows\refint\RestoranSistemi.dll
+C:\Users\w11\source\repos\RestoranSistemi\obj\Debug\net6.0-windows\RestoranSistemi.pdb
+C:\Users\w11\source\repos\RestoranSistemi\obj\Debug\net6.0-windows\RestoranSistemi.genruntimeconfig.cache
+C:\Users\w11\source\repos\RestoranSistemi\obj\Debug\net6.0-windows\ref\RestoranSistemi.dll
